@@ -1,0 +1,8 @@
+{
+    "files_to_run": [
+      {
+        "file_path": "/home/devox/Documents/plotlyStuff/Data/speed.csv",
+        "header": true
+      }
+    ]
+  }
